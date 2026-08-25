@@ -1,11 +1,15 @@
 # Easter Eggs Farm
 
-Deux poulaillers dans l'Yonne, tenus par deux développeurs.
+On a des micro-fermes en autosuffisance, et plus d'œufs qu'on ne peut en manger.
+C'est de ce surplus qu'on vient parler ici.
 
-Sigrid a treize poules, deux chèvres et deux coqs ; Anthony en a six et rien
-d'autre. Nous vendons les œufs aux voisins. Le reste de la semaine, nous
-écrivons du code — ce qui explique pourquoi la ferme se présente comme un
-dépôt, avec des fichiers, un diff et un tableau de tickets.
+Cette organisation abrite les projets qu'on a envie de coder. Aucun enjeu :
+personne n'attend rien, rien ne dépend de rien. Ce qui ne veut pas dire bâclé —
+on pousse chaque détail aussi loin que notre perfectionnisme le demande, parce
+que c'est précisément la partie qui nous plaît. Sans pression, mais sans
+approximation.
+
+Et si un visiteur sourit en chemin, c'est gagné.
 
 ## Ce qu'on trouve ici
 
@@ -37,27 +41,6 @@ Pour une question sur les œufs plutôt que sur le site — une commande, une da
 de vente, une poule en particulier — le site a un bouton de contact, et c'est la
 bonne porte.
 
-## Comment on travaille
-
-Rien d'original, mais tenu :
-
-- **Chaque décision de structure est écrite** avant d'être prise, dans un ADR
-  qui nomme l'hypothèse qui la rendrait fausse et le signal qui le prouverait.
-  Une décision qu'on ne peut pas réfuter est une décision dont on n'apprend
-  rien.
-- **La CI décide, pas nous.** Tests, couverture, types, lint, format des
-  messages de commit, accessibilité : si une porte est rouge, ça ne part pas.
-  Un seuil qu'on peut contourner à la main n'est pas un seuil.
-- **L'accessibilité est une porte, pas une intention.** Les contrastes sont
-  mesurés à chaque exécution, les pages balayées par axe. Le site vise WCAG AAA,
-  avec une seule exception assumée et documentée là où viser AAA rendait le
-  texte plus difficile à lire, pas moins.
-- **Le code et les commentaires sont en anglais ; ce qu'un visiteur lit est
-  bilingue.** Deux publics, deux langues, aucune traduction automatique.
-- **On ne met jamais en ligne ce qu'on n'a pas vérifié.** Pas de photo de poule
-  qui n'existe pas, pas de chiffre inventé, pas de témoignage écrit par nous.
-  Ce qui manque est signalé comme manquant.
-
 ---
 
 <details>
@@ -65,12 +48,16 @@ Rien d'original, mais tenu :
 
 # Easter Eggs Farm
 
-Two henhouses in the Yonne, kept by two developers.
+We keep self-sufficient micro-farms, and more eggs than we can eat. That
+surplus is what this is about.
 
-Sigrid has thirteen hens, two goats and two roosters; Anthony has six hens and
-nothing else. We sell the eggs to our neighbours. The rest of the week we write
-code — which is why the farm introduces itself as a repository, with files, a
-diff and a ticket board.
+This organisation holds the projects we feel like writing. Nothing is at stake:
+nobody is waiting on any of it, and nothing depends on anything. Which is not
+the same as slapdash — every detail gets pushed as far as our perfectionism
+asks, because that is precisely the part we enjoy. No pressure, no approximation
+either.
+
+And if a visitor smiles on the way through, so much the better.
 
 ## What is here
 
@@ -99,25 +86,5 @@ on my phone" is a good issue — we will ask for whatever is missing.
 
 For a question about the eggs rather than the site — an order, a sale date, one
 particular hen — the site has a contact button, and that is the right door.
-
-## How we work
-
-Nothing original, but kept to:
-
-- **Every structural decision is written down** before it is taken, in an ADR
-  that names the assumption which would make it wrong and the signal that would
-  prove it. A decision you cannot disprove is one you learn nothing from.
-- **CI decides, not us.** Tests, coverage, types, lint, commit message format,
-  accessibility: if a gate is red, it does not ship. A threshold you can step
-  around by hand is not a threshold.
-- **Accessibility is a gate, not an intention.** Contrast ratios are measured on
-  every run and the pages swept with axe. The site holds WCAG AAA, with one
-  documented exception where reaching AAA made the text harder to read rather
-  than easier.
-- **Code and comments are in English; what a visitor reads is bilingual.** Two
-  audiences, two languages, no machine translation.
-- **We never publish what we have not checked.** No photograph of a hen that
-  does not exist, no invented figure, no testimonial written by us. What is
-  missing is marked as missing.
 
 </details>
