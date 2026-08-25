@@ -15,7 +15,7 @@ Et si un visiteur sourit en chemin, c'est gagné.
 
 | Dépôt                                                    | Ce que c'est                                                                      |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [`qr-code`](https://github.com/Easter-Eggs-Farm/qr-code) | Le QR code collé sur les boîtes : il mène au site et au moyen de paiement.        |
+| [`qr-code`](https://github.com/Easter-Eggs-Farm/qr-code) | Le QR code collé sur les boîtes : il mène au site.                                |
 | `egg-manager`                                            | Le site et la gestion : ponte, stock, poules, réservations. Privé pour l'instant. |
 
 ## Nous ouvrir une issue
@@ -63,7 +63,7 @@ And if a visitor smiles on the way through, so much the better.
 
 | Repository                                               | What it is                                                                               |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [`qr-code`](https://github.com/Easter-Eggs-Farm/qr-code) | The QR code on the boxes: it leads to the site and to the way to pay.                    |
+| [`qr-code`](https://github.com/Easter-Eggs-Farm/qr-code) | The QR code on the boxes: it leads to the site.                                          |
 | `egg-manager`                                            | The site and the management screens: laying, stock, hens, reservations. Private for now. |
 
 ## Opening an issue
