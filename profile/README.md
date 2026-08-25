@@ -37,9 +37,8 @@ Rien de tout ça n'est obligatoire. Une issue qui dit seulement « le bouton de
 réservation ne fait rien sur mon téléphone » est une bonne issue — nous
 poserons les questions qui manquent.
 
-Pour une question sur les œufs plutôt que sur le site — une commande, une date
-de vente, une poule en particulier — le site a un bouton de contact, et c'est la
-bonne porte.
+Pour une question sur les œufs plutôt que sur le site, ou sur une poule en
+particulier, le site a un bouton de contact : c'est la bonne porte.
 
 ---
 
@@ -84,7 +83,7 @@ Write in French or English, as you prefer. What genuinely helps:
 None of that is required. An issue saying only "the reserve button does nothing
 on my phone" is a good issue — we will ask for whatever is missing.
 
-For a question about the eggs rather than the site — an order, a sale date, one
-particular hen — the site has a contact button, and that is the right door.
+For a question about the eggs rather than the site, or about one hen in
+particular, the site has a contact button: that is the right door.
 
 </details>
